@@ -304,4 +304,13 @@ export const clients = [
     instructionsUrl: "https://github.com/google-ai-edge/gallery/tree/main/skills",
     sourceCodeUrl: "https://github.com/google-ai-edge/gallery",
   },
+  {
+    name: "nanobot",
+    description: "nanobot is an ultra-lightweight, open-source personal AI agent. It runs across multiple platforms — terminal, Telegram, Discord, Slack, WeChat, and more — with built-in MCP support and a skills system for extensibility.",
+    url: "https://nanobot.wiki/",
+    lightSrc: "/images/logos/nanobot/nanobot-logo-light.png",
+    darkSrc: "/images/logos/nanobot/nanobot-logo-dark.png",
+    instructionsUrl: "https://nanobot.wiki/docs/0.1.5/use-nanobot/skills",
+    sourceCodeUrl: "https://github.com/HKUDS/nanobot",
+  },
 ];
